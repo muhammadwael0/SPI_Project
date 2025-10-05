@@ -99,7 +99,8 @@ Digital IC Design Diploma – Final Project
 
 ---
 
-## Design Report
+## 🧾 Design Report
 
 [SPI Report](Design/SPI_Report.pdf)
-<embed src="Design/SPI_Report.pdf" width="70%" height="400px"/>
+
+---
